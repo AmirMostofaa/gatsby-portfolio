@@ -1,0 +1,26 @@
+main {
+    height: 74vh;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+}
+main h1 {
+    font-size: 4em;
+}
+main h2 {
+    font-size: 4em;
+}
+main h3 {
+    font-size: 1.5em;
+    font-weight: 400;
+    margin: 20px 0px;
+    margin-bottom: 60px;
+}
+header a {
+    background-color: #D42990;
+    padding: 12px 20px;
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 1.1em;
+}

@@ -1,7 +1,9 @@
 module.exports = {
   siteMetadata: {
     siteUrl: "https://www.yourdomain.tld",
-    title: "My Gatsby Site",
+    title: "Dev Amir",
+    description: 'web dev portfolio',
+    copyright: 'This website is copyright 2021 dev amir'
   },
   plugins: [
     "gatsby-plugin-gatsby-cloud",
